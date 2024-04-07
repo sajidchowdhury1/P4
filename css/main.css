@@ -1,11 +1,59 @@
+/* header css */
+header img {
+    width: 10%;
+    float: left;
+    padding: 1%;
+}
+
+header h1 {
+    float: left;
+    padding: 2% 0 2% 1%;
+}
+
+/* nav css */
+.container-fluid {
+    clear: left;
+
+}
+
+.navbar {
+    background-color: #9C04FF !important;
+}
+
+.links li a{
+    color: white !important;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.links li {
+
+}
+
+.nav-item {
+
+}
+
+
+
+
+/* footer css */
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
-    color: white;
+    background-color: #9C04FF;
+    color: #E5D621;
     text-align: center;
-    padding: 10px;
-    font-size: 0.5rem;
+    padding: 20px;
+    font-size: 20px;
 }
+
+footer span div {
+    float: left;
+    padding: 0 10%;
+}
+
