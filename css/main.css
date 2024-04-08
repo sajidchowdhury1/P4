@@ -13,7 +13,6 @@ header h1 {
 /* nav css */
 .container-fluid {
     clear: left;
-
 }
 
 .navbar {
@@ -29,14 +28,12 @@ header h1 {
 }
 
 .links li {
-
+    padding: 0 65% 0 20%;
 }
 
-.nav-item {
-
+.dropdown-menu {
+    background-color: #9C04FF !important;
 }
-
-
 
 
 /* footer css */

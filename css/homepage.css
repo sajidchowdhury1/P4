@@ -1,0 +1,33 @@
+/* carousel css */
+
+#gallery {
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.img3 {
+    height: 393.19px;
+}
+
+.carousel-indicators {
+    width: 75%;
+}
+
+/* movie section homepage css */
+
+.gallery_picture {
+    background-color: #9C04FF;
+    color: white;
+    font-size: 50px;
+    padding: 10px 300px 10px 0;
+    width: 300px;
+}
+
+.movie_2, .show_2 {
+    margin: 0 10%;
+}
+
+.footer_margin {
+    margin-bottom: 100px;
+}
