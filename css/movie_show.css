@@ -1,0 +1,23 @@
+/* Movie and Show page css */
+/* Title CSS */
+.title {
+    background-color: #9C04FF;
+    color: white;
+    font-size: 50px;
+    padding: 10px 300px 10px 0;
+    width: 300px;
+    margin: 2% 0;
+}
+
+
+/* Review Card CSS */
+.review {
+    background-color: #D683FF;
+    padding: 1% 0;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.card {
+    margin: 0 1%;
+}

@@ -1,3 +1,10 @@
+/* Title css */
+.title_gallery {
+    text-align: center;
+    font-size: 400%;
+    margin: 1% 0;
+}
+
 /* carousel css */
 
 #gallery {
@@ -28,6 +35,3 @@
     margin: 0 10%;
 }
 
-.footer_margin {
-    margin-bottom: 100px;
-}

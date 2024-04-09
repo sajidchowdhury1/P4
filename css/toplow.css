@@ -1,0 +1,35 @@
+/* Top rated and lowest rated css */
+/* Title CSS */
+.title {
+    background-color: #9C04FF;
+    color: white;
+    font-size: 50px;
+    padding: 10px 100px 10px 0;
+    width: 500px;
+    margin: 2% 0;
+}
+
+.lowest_title {
+    background-color: #9C04FF;
+    color: white;
+    font-size: 50px;
+    padding: 10px 50px 10px 0;
+    width: 600px;
+    margin: 2% 0;
+}
+
+/* Card CSS */
+.description {
+    background-color: #D683FF;
+    padding: 2% 0;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.card1 {
+    margin-right: 1%;
+}
+
+.card2 {
+    margin-left: 1%;
+}
