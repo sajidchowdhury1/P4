@@ -27,8 +27,12 @@ header h1 {
     text-align: center;
 }
 
-.links li {
-    margin-right: 50%;
+.tvshow {
+    margin: 0 50% 0 50%;
+}
+
+.upcoming {
+    margin: 0 50% 0 0;
 }
 
 .dropdown-menu {
