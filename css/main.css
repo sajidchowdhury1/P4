@@ -27,18 +27,6 @@ header h1 {
     text-align: center;
 }
 
-.navtool {
-    float: left;
-    margin: 0 17%;
-}
-
-.tvshow {
-    margin: 0 60% 0 60%;
-}
-
-.upcoming {
-    margin: 0 60% 0 0;
-}
 
 .dropdown-menu {
     background-color: #9C04FF !important;
