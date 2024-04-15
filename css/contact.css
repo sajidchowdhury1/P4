@@ -1,0 +1,79 @@
+/* Title CSS */
+.title {
+    background-color: #9C04FF;
+    color: white;
+    font-size: 50px;
+    padding: 10px 100px 10px 0;
+    width: 550px;
+    margin: 2% 2%;
+}
+
+/* Contact section CSS */
+.contact {
+    background-color: #D683FF;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.box1 {
+    background-color: white;
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.box2 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    position: relative;
+    left: 10%;
+    right: 10%;
+}
+
+.contactinfo {
+    background-color: white;
+    padding: 2% 5% 2% 5%;
+    width: 25%;
+    float: left;
+    margin-bottom: 2%;
+}
+
+.social_title {
+    background-color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 5%;
+}
+
+.social div {
+    margin-left: 2%;
+    float: left;
+    width: 50%;
+}
+
+
+.socialpage a {
+    float: left;
+    justify-content: center;
+    position: relative;
+    left: 50%;
+    right: 50%;
+}
+
+.middle {
+    margin: 0 20%;
+}
+
+.box3 {
+    clear: left;
+    margin-bottom: 2%;
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/* Submit Button CSS */
+.btn {
+    background-color: #9C04FF !important;
+}

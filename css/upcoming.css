@@ -9,19 +9,15 @@
 }
 
 /* video css */
-.ytvideo {
-    position: relative;
-    left: 15%;
-    margin-bottom: 1%;
-    padding-top: 2%;
 
+.ytvideo {
+    margin-top: 5%;
+    margin-bottom: 2%;
 }
 
 .video {
     background-color: #D683FF;
-    width: 90%;
-    position: relative;
-    left: 5%;
+    margin: 0 5% 0 5%;
 }
 
 .card1 {
