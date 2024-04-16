@@ -5,7 +5,7 @@
     color: white;
     font-size: 50px;
     padding: 10px 100px 10px 0;
-    width: 500px;
+    width: 650px;
     margin: 2% 0;
 }
 
@@ -32,4 +32,13 @@
 
 .card2 {
     margin-left: 1%;
+}
+
+/* media css */
+@media only screen and (max-width: 990px) {
+
+    .description {
+        padding: 10px 100px 10px 100px;
+    }
+
 }

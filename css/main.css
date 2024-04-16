@@ -48,10 +48,52 @@ header h1 {
 
 footer span div {
     float: left;
-    padding: 0 10%;
+    margin: 0 10%;
 }
 
 .footer_margin {
     margin-bottom: 100px;
 }
+
+.firstdiv {
+    color: white !important;
+}
+
+/* media css */
+
+@media only screen and (max-width: 1800px) {
+
+    header img {
+        min-width: 180px;
+    }
+
+    header h1 {
+        font-size: 70px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+
+    footer span div {
+        margin: 0 7%;
+    }
+
+    header h1 {
+        font-size: 40px;
+    }
+
+}
+
+@media only screen and (max-width: 980px) {
+
+    footer span div {
+        float: none;
+    }
+
+}
+
+
+
+
 
