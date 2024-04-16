@@ -55,14 +55,14 @@
 
 .socialpage a {
     float: left;
-    justify-content: center;
+    margin: 2% 7% 2% 7%;
     position: relative;
     left: 50%;
-    right: 50%;
+
 }
 
 .middle {
-    margin: 0 20%;
+    margin: 2% auto;
 }
 
 .box3 {
@@ -77,3 +77,72 @@
 .btn {
     background-color: #9C04FF !important;
 }
+
+
+/* media css */
+
+
+@media only screen and (max-width: 1400px) {
+
+    .contactinfo {
+
+    }
+
+    .socialpage a {
+        margin: 2% 5% 2% 5%;
+        left: 45%;
+
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .contactinfo {
+        min-width: 350px;
+    }
+
+
+    .socialpage a {
+        left: 50%;
+        margin: 2% 3% 2% 3%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+
+    .contactinfo {
+        float: none;
+        margin: 2% auto;
+        width: 100%;
+    }
+
+
+    .socialpage a {
+        left: 0;
+        margin: 2% 10% 2% 10%;
+        clear: left;
+        width: 0;
+    }
+
+    .social div {
+        float: left;
+        margin: 0 0 2% 0;
+        width: 100%;
+
+    }
+
+    .box2 {
+
+        left: 0;
+        right: 0;
+    }
+
+    .title {
+        font-size: 35px;
+        padding: 10px 100px 10px 0;
+        width: 400px;
+        margin: 2% 1%;
+    }
+}
+
+

@@ -24,3 +24,19 @@
     padding-bottom: 2%;
 }
 
+@media only screen and (max-width: 1200px) {
+
+    .ytvideo {
+        width: 700px;
+        height: 393.75px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .ytvideo {
+        width: 400px;
+        height: 225px;
+    }
+}
+

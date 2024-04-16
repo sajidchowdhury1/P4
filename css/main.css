@@ -8,6 +8,7 @@ header img {
 header h1 {
     float: left;
     padding: 2% 0 2% 1%;
+    font-size: 50px;
 }
 
 /* nav css */
@@ -61,17 +62,6 @@ footer span div {
 
 /* media css */
 
-@media only screen and (max-width: 1800px) {
-
-    header img {
-        min-width: 180px;
-    }
-
-    header h1 {
-        font-size: 70px;
-    }
-
-}
 
 @media only screen and (max-width: 1400px) {
 
@@ -83,6 +73,10 @@ footer span div {
         font-size: 40px;
     }
 
+    header img {
+        width: 150px;
+    }
+
 }
 
 @media only screen and (max-width: 980px) {
@@ -91,8 +85,26 @@ footer span div {
         float: none;
     }
 
+    header img {
+        width: 120px;
+    }
+
+    .footer_margin {
+        margin-bottom: 150px;
+    }
+
+
 }
 
+
+@media only screen and (max-width: 400px) {
+
+
+    header h1 {
+        font-size: 30px;
+    }
+
+}
 
 
 

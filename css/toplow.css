@@ -39,6 +39,25 @@
 
     .description {
         padding: 10px 100px 10px 100px;
+        margin-bottom: 30px;
+    }
+
+    .card1 {
+        margin-right: 0%;
+    }
+
+    .card2 {
+        margin-left: 0%;
+    }
+
+    .title {
+        background-color: #9C04FF;
+        color: white;
+        font-size: 40px;
+        padding: 10px 100px 10px 0;
+        width: 400px;
+        margin: 5% 0;
     }
 
 }
+
